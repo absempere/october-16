@@ -50,8 +50,8 @@
       "type": "event",
       "uuid": "35ac0e3f-6fe1-40e2-b8e2-260cbe3ed24b",
       "includes": [
-        "description",
-        "media"
+        "media",
+        "annotations"
       ],
       "start": 60,
       "end": 120,
@@ -80,6 +80,6 @@
   "slug": "testing-structure",
   "created_at": "2024-10-16T16:28:33.173Z",
   "created_by": "absempere",
-  "updated_at": "2024-10-16T16:42:25.657Z",
+  "updated_at": "2024-10-16T16:42:56.738Z",
   "updated_by": "absempere"
 }
