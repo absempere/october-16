@@ -1,0 +1,54 @@
+{
+  "content": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Testing out menus / ToCs"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "table-of-contents",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    }
+  ],
+  "title": "Extra page",
+  "autogenerate": {
+    "enabled": false,
+    "type": "custom"
+  },
+  "slug": "extra-page",
+  "created_at": "2024-10-16T16:28:03.514Z",
+  "created_by": "absempere",
+  "updated_at": "2024-10-16T16:28:03.514Z",
+  "updated_by": "absempere"
+}
