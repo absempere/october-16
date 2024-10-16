@@ -1,0 +1,15 @@
+{
+  "content": [],
+  "created_at": "2024-10-16T17:36:12.008Z",
+  "created_by": "absempere",
+  "title": "Imported Event 1",
+  "slug": "imported-event-1",
+  "updated_at": "2024-10-16T17:36:12.008Z",
+  "updated_by": "absempere",
+  "parent": "b1494a53-b2c8-4513-8ef6-74a4c78e06f5",
+  "autogenerate": {
+    "enabled": true,
+    "type": "event",
+    "type_id": "b1811957-264d-45e8-a28e-876147ac2110"
+  }
+}
