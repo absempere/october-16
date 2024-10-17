@@ -1,0 +1,94 @@
+{
+  "content": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Adding some content to test what is appearing on the public site."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Medium image."
+        }
+      ]
+    },
+    {
+      "type": "image",
+      "url": "https://assets.vogue.com/photos/5891fac4153ededd21da5647/master/w_2240,c_limit/1-holding-elizabethbishop_181856363771.jpg",
+      "size": "medium",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Elizabeth Bishop and Tobias the cat",
+          "bold": true,
+          "italic": true
+        },
+        {
+          "text": " ("
+        },
+        {
+          "text": "Img src",
+          "link": "https://www.theguardian.com/books/booksblog/2011/feb/08/elizabeth-bishop-centenary"
+        },
+        {
+          "text": ")"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Thumbnail:"
+        }
+      ]
+    },
+    {
+      "type": "image",
+      "url": "https://www.theparisreview.org/il/5d1c069175/large/BishopElizabethcAliceHelenMethfesselcourtesyofFrankBidart.png",
+      "size": "thumbnail",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    }
+  ],
+  "title": "Audio Files",
+  "autogenerate": {
+    "enabled": false,
+    "type": "custom"
+  },
+  "slug": "audio-files",
+  "created_at": "2024-10-17T18:39:30.938Z",
+  "created_by": "absempere",
+  "updated_at": "2024-10-17T18:39:30.938Z",
+  "updated_by": "absempere"
+}
