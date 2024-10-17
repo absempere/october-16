@@ -4,7 +4,13 @@
       "label": "Bishop Filling Station",
       "is_offline": false,
       "file_url": "https://youtu.be/85v7TJAOayw?feature=shared",
-      "duration": 112
+      "duration": 112,
+      "caption_set": [
+        {
+          "annotation_page_id": "87a38da9-344a-4ccc-b4f2-114ef72db337",
+          "speaker_category": "Speaker"
+        }
+      ]
     }
   },
   "auto_generate_web_page": true,
@@ -22,6 +28,6 @@
   ],
   "created_at": "2024-10-17T18:02:50.962Z",
   "created_by": "absempere",
-  "updated_at": "2024-10-17T18:02:50.962Z",
+  "updated_at": "2024-10-17T18:49:23.320Z",
   "updated_by": "absempere"
 }
