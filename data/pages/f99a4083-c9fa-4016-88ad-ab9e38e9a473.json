@@ -49,6 +49,7 @@
   "slug": "extra-page",
   "created_at": "2024-10-16T16:28:03.514Z",
   "created_by": "absempere",
-  "updated_at": "2024-10-16T16:28:03.514Z",
-  "updated_by": "absempere"
+  "updated_at": "2024-10-17T18:36:48.260Z",
+  "updated_by": "absempere",
+  "parent": "b1494a53-b2c8-4513-8ef6-74a4c78e06f5"
 }
